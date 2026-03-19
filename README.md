@@ -2,7 +2,7 @@
 
 A Claude Code skill to remove AI writing patterns entirely.
 
-## The Problem
+## Problem
 
 Balaji Srinivasan [nailed it](https://x.com/balajis/status/1947947338007560569):
 
@@ -12,9 +12,9 @@ As more people use AI to write, the output sounds the same. Predictable structur
 
 Use AI to write better, then strip the AI out of the prose.
 
-## Who Made This
+## Why We Built This
 
-We're [Flywheel](https://flywheelos.com/). We help B2B teams create authentic content.
+We're [Flywheel](https://flywheelos.com/). We help leading companies, including Fortune 500s, with their content strategy.
 
 Part of that process has been stripping out telltale signs of AI writing. After months of doing this manually, we codified the patterns into a skill.
 
@@ -22,16 +22,16 @@ Part of that process has been stripping out telltale signs of AI writing. After 
 
 **10 patterns that standard grammar tools miss:**
 
-1. **False Agency** — "The data tells us" (data doesn't tell, people read it)
-2. **Narrator Voice** — floating above the scene instead of putting the reader in it
-3. **Wh- Openers** — "What makes this hard is..." (just say what's hard)
-4. **Vague Declaratives** — "The implications are significant" (name them)
-5. **Negative Runway** — "Not X. Not Y. It's Z." (just say Z)
-6. **Three-Item Lists** — AI loves triplets. Humans use two.
-7. **Question Endings** — "What would you do?" (LinkedIn CTA energy)
-8. **Over-Explanation** — defining terms readers already know
-9. **Adverb Infestation** — genuinely, fundamentally, truly, inevitably
-10. **Passive Hiding** — "Mistakes were made" (by whom?)
+1. **False Agency** - "The data tells us" (data doesn't tell, people read it)
+2. **Narrator Voice** - floating above the scene instead of putting the reader in it
+3. **Wh- Openers** - "What makes this hard is..." (just say what's hard)
+4. **Vague Declaratives** - "The implications are significant" (name them)
+5. **Negative Runway** - "Not X. Not Y. It's Z." (just say Z)
+6. **Three-Item Lists** - AI loves triplets. Humans use two.
+7. **Question Endings** - "What would you do?" (LinkedIn CTA energy)
+8. **Over-Explanation** - defining terms readers already know
+9. **Adverb Infestation** - genuinely, fundamentally, truly, inevitably
+10. **Passive Hiding** - "Mistakes were made" (by whom?)
 
 Plus: banned phrases, structure checks, and a specificity gate.
 
@@ -39,7 +39,7 @@ Plus: banned phrases, structure checks, and a specificity gate.
 
 ```bash
 # Clone the repo
-git clone https://github.com/petermeyer/stop-the-slop.git
+git clone https://github.com/khwong72/stop-the-slop.git
 
 # Symlink to your Claude Code skills directory
 ln -s $(pwd)/stop-the-slop/skill ~/.claude/skills/stop-the-slop
@@ -65,7 +65,7 @@ Draft → Edit → /stop-the-slop → Publish
 
 This is a **final audit**, not a drafting tool. Run it after your content is polished.
 
-## The Test
+## Test
 
 Read it aloud.
 
@@ -83,6 +83,16 @@ skill/
 └── examples.md       # Before/after transformations
 ```
 
+## Contributors
+
+- [@khwong72](https://github.com/khwong72)
+- [@aliguy](https://github.com/aliguy)
+- [Claude](https://claude.ai) - AI pair programmer
+
 ## License
 
 MIT
+
+---
+
+Share this with everyone you know. Stop the slop.
