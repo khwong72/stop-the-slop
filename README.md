@@ -8,9 +8,9 @@ Balaji Srinivasan [nailed it](https://x.com/balajis/status/1947947338007560569):
 
 > "0% AI is slow. But 100% AI is slop. So the optimal amount of AI is actually between 0-100%... It's the Laffer Curve, but for AI."
 
-As more people leverage AI for writing, the output starts to sound the same. Predictable structures. Hollow transitions. False profundity. You can spot it instantly.
+As more people use AI to write, the output sounds the same. Predictable structures and hollow transitions. You spot it in the first sentence.
 
-The answer isn't to stop using AI. It's to use AI to write better — and then strip the AI out of the prose.
+Use AI to write better, then strip the AI out of the prose.
 
 ## Who Made This
 
@@ -45,7 +45,7 @@ git clone https://github.com/petermeyer/stop-the-slop.git
 ln -s $(pwd)/stop-the-slop/skill ~/.claude/skills/stop-the-slop
 ```
 
-Or just copy `skill/` to `~/.claude/skills/stop-the-slop/`.
+Or copy `skill/` to `~/.claude/skills/stop-the-slop/`.
 
 ## Usage
 
@@ -55,7 +55,7 @@ After drafting and editing your content:
 /stop-the-slop
 ```
 
-The skill audits against all patterns. If anything fails, fix it and re-run.
+Run the audit. If anything fails, fix it and re-run.
 
 ## Workflow
 
@@ -69,9 +69,9 @@ This is a **final audit**, not a drafting tool. Run it after your content is pol
 
 Read it aloud.
 
-- Sounds like explaining to a peer over coffee → **Pass**
+- Sounds like a peer explaining over coffee → **Pass**
 - Sounds like a LinkedIn post → **Fix it**
-- Sounds like performing expertise → **Fix it**
+- Sounds like a keynote → **Fix it**
 
 ## Files
 
