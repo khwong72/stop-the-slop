@@ -1,5 +1,7 @@
 # Stop the Slop
 
+![Stop the Slop](image%2035.png)
+
 A Claude Code skill to remove AI writing patterns entirely.
 
 ## Problem
