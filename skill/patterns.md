@@ -84,8 +84,8 @@ Three items feel AI-generated. Two feels human.
 
 | Slop | Clean |
 |------|-------|
-| "Speed. Quality. Cost." | "Speed and quality." |
-| "Plan, execute, iterate." | "Execute and iterate." |
+| "Align, execute, iterate." | "Execute and iterate." |
+| "Listen. Learn. Lead." | "Learn and lead." |
 | "Think, build, ship." | "Build and ship." |
 
 **Check:** Do you have three items in sequence? Use two or one.

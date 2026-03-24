@@ -67,12 +67,12 @@ Clean transformations organized by pattern. Use for reference when auditing.
 ## Three-Item Lists
 
 **Before:**
-> Speed. Quality. Cost. You can only pick two. That's the tradeoff.
+> Align. Execute. Iterate. That's the playbook every startup needs to follow.
 
 **After:**
-> Speed and quality. Pick both, pay more.
+> Execute and iterate. Alignment happens along the way.
 
-**What changed:** Three items → two. Reads less formulaic.
+**What changed:** Three items → two. Cut the "playbook" framing. Reads less formulaic.
 
 ---
 
@@ -127,19 +127,19 @@ Clean transformations organized by pattern. Use for reference when auditing.
 ## Compound Example: Full Transformation
 
 **Before:**
-> Here's the thing: building products is hard. Not because the technology is complex. Because people are complex. What makes this challenging is that nobody designed the system you're working in. It emerged organically. The implications are significant. Let that sink in.
+> Here's the kicker: hiring senior engineers is broken. Not because the talent isn't there. Because the process filters for the wrong signals. What makes this frustrating is that everyone knows interviews don't work. The implications are massive. Let that sink in.
 >
-> Are you ready to rethink your approach?
+> Are you rethinking your hiring process yet?
 
 **After:**
-> Building products is hard because people are complex, not technology. You didn't design the system you're working in — it built up over years of small decisions. That's the constraint you're operating under.
+> Hiring senior engineers is broken because the process filters for the wrong signals — whiteboard puzzles instead of system design conversations. Everyone knows this. Few companies fix it because rewriting the loop takes six months.
 
 **What changed:**
-- Removed "Here's the thing" throat-clearing
+- Removed "Here's the kicker" throat-clearing
 - Removed "Not X. Because Y." binary contrast
-- Removed "What makes this challenging" Wh- opener
-- Removed "Nobody designed" narrator voice → "You didn't design"
-- Removed "implications are significant" vague declarative → named the constraint
+- Removed "What makes this frustrating" Wh- opener
+- Removed "everyone knows" narrator voice → kept but added specifics
+- Removed "implications are massive" vague declarative → named the real blocker (six months)
 - Removed "Let that sink in" emphasis crutch
 - Removed question ending
-- Result: 3 sentences instead of 7. Same content, sounds human.
+- Result: 3 sentences instead of 7. Added concrete detail (whiteboard puzzles, six months).
